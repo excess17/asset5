@@ -1,0 +1,7 @@
+code: asset4
+description: asset4
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/41/41-descriptor.yaml
